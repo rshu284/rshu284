@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rshu284
+- 👋 Hi, I’m @rshu284 :smiley:
 - 👀 I’m interested in robotics, avionics on spacecraft as well as software development
 - 🌱 I’m currently learning the very beginnings of OOP
 - 💞️ I’m looking to collaborate on ...
